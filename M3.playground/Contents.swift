@@ -1,5 +1,6 @@
 import Foundation
 
+
 func nextNumber(number: Int) -> Int {
     var number1 = number + 1
     return number1
